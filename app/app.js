@@ -20,8 +20,8 @@ var GAMES = [
   // ONE
   {
     gameType: "Handheld #1",
-    gameThumb: "1.png",
-    gameFull: "1.png",
+    gameThumb: "1.jpg",
+    gameFull: "1.jpg",
     gameBrand: "Steam Deck",
     gameShort:
       "Handheld device with directional pad/joystick, buttons, and often additional features like motion sensors, used to control video games on gaming consoles.",
@@ -29,7 +29,7 @@ var GAMES = [
       "Gaming console controllers are handheld devices designed for playing video games on gaming consoles. They typically feature a directional pad or joystick for movement control, buttons for action and menu navigation, and sometimes triggers or bumpers for secondary actions. They may also have additional features such as touchscreens, motion sensors, and haptic feedback to enhance the gaming experience. Regardless of their specific design, gaming console controllers are essential for interacting with and controlling games on a variety of gaming platforms.",
     gameConsole: "Itself",
     gameYear: "2021",
-    gameBrand: "Steam",
+    gameBranding: "Steam",
     gameRec: "Skyrim",
   },
   //   ONE
@@ -46,7 +46,7 @@ var GAMES = [
       "Gaming console controllers are handheld devices designed for playing video games on gaming consoles. They typically feature a directional pad or joystick for movement control, buttons for action and menu navigation, and sometimes triggers or bumpers for secondary actions. They may also have additional features such as touchscreens, motion sensors, and haptic feedback to enhance the gaming experience. Regardless of their specific design, gaming console controllers are essential for interacting with and controlling games on a variety of gaming platforms.",
     gameConsole: "Playstation",
     gameYear: "2021",
-    gameBrand: "PS Move",
+    gameBranding: "PS Move",
     gameRec: "Skyrim",
   },
 //   TWO
@@ -63,7 +63,7 @@ var GAMES = [
       "Gaming console controllers are handheld devices designed for playing video games on gaming consoles. They typically feature a directional pad or joystick for movement control, buttons for action and menu navigation, and sometimes triggers or bumpers for secondary actions. They may also have additional features such as touchscreens, motion sensors, and haptic feedback to enhance the gaming experience. Regardless of their specific design, gaming console controllers are essential for interacting with and controlling games on a variety of gaming platforms.",
     gameConsole: "Nintendo Switch",
     gameYear: "2019",
-    gameBrand: "Nintendo Switch Joy-Cons",
+    gameBranding: "Nintendo Switch Joy-Cons",
     gameRec: "Skyrim",
   },
 //   THREE
@@ -71,8 +71,8 @@ var GAMES = [
 // FOUR
   {
     gameType: "Joy-con #1",
-    gameThumb: "4.png",
-    gameFull: "4.png",
+    gameThumb: "4.jpg",
+    gameFull: "4.jpg",
     gameBrand: "Sony",
     gameShort:
       "Handheld device with directional pad/joystick, buttons, and often additional features like motion sensors, used to control video games on gaming consoles.",
@@ -80,7 +80,7 @@ var GAMES = [
       "Gaming console controllers are handheld devices designed for playing video games on gaming consoles. They typically feature a directional pad or joystick for movement control, buttons for action and menu navigation, and sometimes triggers or bumpers for secondary actions. They may also have additional features such as touchscreens, motion sensors, and haptic feedback to enhance the gaming experience. Regardless of their specific design, gaming console controllers are essential for interacting with and controlling games on a variety of gaming platforms.",
     gameConsole: "Playstation 2",
     gameYear: "2006",
-    gameBrand: "Playstation",
+    gameBranding: "Playstation",
     gameRec: "Skyrim",
   },
 //   FOUR
@@ -88,8 +88,8 @@ var GAMES = [
 // FIVE
   {
     gameType: "Joy-con #2",
-    gameThumb: "5.png",
-    gameFull: "5.png",
+    gameThumb: "5.jpg",
+    gameFull: "5.jpg",
     gameBrand: "Sony",
     gameShort:
       "Handheld device with directional pad/joystick, buttons, and often additional features like motion sensors, used to control video games on gaming consoles.",
@@ -97,7 +97,7 @@ var GAMES = [
       "Gaming console controllers are handheld devices designed for playing video games on gaming consoles. They typically feature a directional pad or joystick for movement control, buttons for action and menu navigation, and sometimes triggers or bumpers for secondary actions. They may also have additional features such as touchscreens, motion sensors, and haptic feedback to enhance the gaming experience. Regardless of their specific design, gaming console controllers are essential for interacting with and controlling games on a variety of gaming platforms.",
     gameConsole: "Playstation 4",
     gameYear: "2016",
-    gameBrand: "Playstation",
+    gameBranding: "Playstation",
     gameRec: "Skyrim",
   },
 //   FIVE
@@ -114,7 +114,7 @@ var GAMES = [
       "Gaming console controllers are handheld devices designed for playing video games on gaming consoles. They typically feature a directional pad or joystick for movement control, buttons for action and menu navigation, and sometimes triggers or bumpers for secondary actions. They may also have additional features such as touchscreens, motion sensors, and haptic feedback to enhance the gaming experience. Regardless of their specific design, gaming console controllers are essential for interacting with and controlling games on a variety of gaming platforms.",
     gameConsole: "Nintendo Switch",
     gameYear: "2021",
-    gameBrand: "Nintendo Switch Joy-Cons",
+    gameBranding: "Nintendo Switch Joy-Cons",
     gameRec: "Skyrim",
   },
 //   SIX
@@ -122,8 +122,8 @@ var GAMES = [
 // SEVEN
   {
     gameType: "Console",
-    gameThumb: "7.png",
-    gameFull: "7.png",
+    gameThumb: "7.jpg",
+    gameFull: "7.jpg",
     gameBrand: "Sony",
     gameShort:
       "Handheld device with directional pad/joystick, buttons, and often additional features like motion sensors, used to control video games on gaming consoles.",
@@ -131,7 +131,7 @@ var GAMES = [
       "Gaming console controllers are handheld devices designed for playing video games on gaming consoles. They typically feature a directional pad or joystick for movement control, buttons for action and menu navigation, and sometimes triggers or bumpers for secondary actions. They may also have additional features such as touchscreens, motion sensors, and haptic feedback to enhance the gaming experience. Regardless of their specific design, gaming console controllers are essential for interacting with and controlling games on a variety of gaming platforms.",
     gameConsole: "Nintendo Switch",
     gameYear: "1990",
-    gameBrand: "Playstation",
+    gameBranding: "Playstation",
     gameRec: "Sonic The Hedgehog",
   },
 //   SEVEN
@@ -139,8 +139,8 @@ var GAMES = [
 // EIGHT
   {
     gameType: "Mouse",
-    gameThumb: "8.png",
-    gameFull: "8.png",
+    gameThumb: "8.jpg",
+    gameFull: "8.jpg",
     gameBrand: "Razer",
     gameShort:
       "Handheld device with directional pad/joystick, buttons, and often additional features like motion sensors, used to control video games on gaming consoles.",
@@ -148,7 +148,7 @@ var GAMES = [
       "Gaming console controllers are handheld devices designed for playing video games on gaming consoles. They typically feature a directional pad or joystick for movement control, buttons for action and menu navigation, and sometimes triggers or bumpers for secondary actions. They may also have additional features such as touchscreens, motion sensors, and haptic feedback to enhance the gaming experience. Regardless of their specific design, gaming console controllers are essential for interacting with and controlling games on a variety of gaming platforms.",
     gameConsole: "PC",
     gameYear: "2019",
-    gameBrand: "Razer Mouse",
+    gameBranding: "Razer Mouse",
     gameRec: "Skyrim Online",
   },
 //   EIGHT
@@ -156,8 +156,8 @@ var GAMES = [
 // NINE
   {
     gameType: "Joy-con #3",
-    gameThumb: "9.png",
-    gameFull: "9.png",
+    gameThumb: "9.jpg",
+    gameFull: "9.jpg",
     gameBrand: "Microsoft",
     gameShort:
       "Handheld device with directional pad/joystick, buttons, and often additional features like motion sensors, used to control video games on gaming consoles.",
@@ -165,7 +165,7 @@ var GAMES = [
       "Gaming console controllers are handheld devices designed for playing video games on gaming consoles. They typically feature a directional pad or joystick for movement control, buttons for action and menu navigation, and sometimes triggers or bumpers for secondary actions. They may also have additional features such as touchscreens, motion sensors, and haptic feedback to enhance the gaming experience. Regardless of their specific design, gaming console controllers are essential for interacting with and controlling games on a variety of gaming platforms.",
     gameConsole: "XBOX 360",
     gameYear: "2010",
-    gameBrand: "XBOX 360",
+    gameBranding: "XBOX 360",
     gameRec: "Minecraft",
   },
 //   NINE
@@ -173,8 +173,8 @@ var GAMES = [
 // TEN
   {
     gameType: "Joy-con #4",
-    gameThumb: "10.png",
-    gameFull: "10.png",
+    gameThumb: "10.jpg",
+    gameFull: "10.jpg",
     gameBrand: "Microsoft",
     gameShort:
       "Handheld device with directional pad/joystick, buttons, and often additional features like motion sensors, used to control video games on gaming consoles.",
@@ -182,7 +182,7 @@ var GAMES = [
       "Gaming console controllers are handheld devices designed for playing video games on gaming consoles. They typically feature a directional pad or joystick for movement control, buttons for action and menu navigation, and sometimes triggers or bumpers for secondary actions. They may also have additional features such as touchscreens, motion sensors, and haptic feedback to enhance the gaming experience. Regardless of their specific design, gaming console controllers are essential for interacting with and controlling games on a variety of gaming platforms.",
     gameConsole: "XBOX ONE",
     gameYear: "2018",
-    gameBrand: "XBOX ONE",
+    gameBranding: "XBOX ONE",
     gameRec: "Minecraft",
   }
 //   TEN
@@ -193,7 +193,47 @@ var GAMES = [
 
 function loadData() {
 $.each(GAMES, function(index, game){
-    console.log(game.gameType);
+    // console.log(game.gameType);
+    $("#app").append(`<section id="${index}">
+    <div class="row">
+        <h1>${game.gameType}</h1>
+        <div class="col">
+            <div class="gameBrand">
+            Brand: ${game.gameBrand}</div>
+            <br>
+            <div class="gameShort">
+            ${game.gameShort}</div>
+            <br>
+            <div class="gameImg">
+                <div class="gameFull">
+                    <img src="img/${game.gameFull}" alt="">
+                </div>
+                <div class="desc">
+                    <div class="gameThumb">
+                    <img src="img/${game.gameThumb}" alt=""></div>
+                    <br>
+                    <div class="gameBranding">
+                    Branding: ${game.gameBranding}</div>
+                    <br>
+                    <div class="gameConsole">
+                    Console: ${game.gameConsole}</div>
+                    <br>
+                    <div class="gameYear">
+                    <br>
+                    Year: ${game.gameYear}</div>
+                    <br>
+                    <div class="gameLong">
+                    ${game.gameLong}</div>
+                    <br>
+                    <div class="gameRec">
+                   Recommendation: ${game.gameRec}</div>
+                </div> <br><br>
+
+            </div>
+        </div>
+    </div>
+</section>
+`);
 });
 
 
